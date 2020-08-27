@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "addsoltodoapp-client-side-solution",
+    "id": "d429b267-2a09-49b7-85e6-3050ad167576",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/addsoltodoapp.sppkg"
+  }
+}

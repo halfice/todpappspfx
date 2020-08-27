@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.10.0",
+    "libraryName": "addsoltodoapp",
+    "libraryId": "d429b267-2a09-49b7-85e6-3050ad167576",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
